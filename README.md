@@ -60,3 +60,12 @@ The website consists of 7 pages total, as shown below;
 ![dpl](https://user-images.githubusercontent.com/84547558/157136852-c077b790-1130-4297-a164-5a809975042e.png)
 
                    
+
+Rubric
+Unit 11 Rubric - Web Design Homework - Web Visualization Dashboard
+
+
+References
+OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from https://openweathermap.org/
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
