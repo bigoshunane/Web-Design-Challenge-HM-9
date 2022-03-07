@@ -15,7 +15,9 @@ Python (Jupyter notebook), HTML, CSS
 The website consists of 7 pages total, as shown below;
 
 . A landing page 
+
               which shows:
+              
               . An explanation of the project.
               . Links to each visualizations page.
 
@@ -26,7 +28,9 @@ The website consists of 7 pages total, as shown below;
 
 
 . Comparisons page 
+
                  that:
+                 
                   . Contains all of the visualizations on the same page so we can easily visually compare them.
                   . Uses a bootstrap grid for the visualizations.
                   . The grid must be two visualizations across on screens medium and larger, and one across on extra-small and small screens.
@@ -35,7 +39,9 @@ The website consists of 7 pages total, as shown below;
   
  ![cs](https://user-images.githubusercontent.com/84547558/157136009-fbd84e7e-f046-4641-b0b3-2c2f8af71b41.png)
 
-. 4 Visualization pages: each with:
+. 4 Visualization pages: 
+                   
+                   each with:
                     
                       . A descriptive title and heading tag.
                       . The plot/visualization itself for the selected comparison.
@@ -44,12 +50,14 @@ The website consists of 7 pages total, as shown below;
 ![vl](https://user-images.githubusercontent.com/84547558/157136529-ed227e4a-68ca-4435-bbaa-2492e0a5af61.png)
                   
    
-   . Data page: that;
+   . Data page:
+       
+                 that;
+                 
                     . Displays a responsive table containing the data used in the visualizations.
                     . The table must be a bootstrap table component.
                     . The data must come from exporting the .csv file as HTML, or converting it to HTML. 
                     
 ![dpl](https://user-images.githubusercontent.com/84547558/157136852-c077b790-1130-4297-a164-5a809975042e.png)
 
-                    . The data must come from exporting the .csv file as HTML, or converting it to HTML. 
-                  
+                   
