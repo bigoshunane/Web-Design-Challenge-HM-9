@@ -14,7 +14,7 @@ Python (Jupyter notebook), HTML, CSS
 
 The website consists of 7 pages total, as shown below;
 
-. A landing page 
+. Landing page 
 
          which shows:
               
