@@ -4,7 +4,7 @@ The aim of this project is to create a visualization dashboard website by utiliz
 
 While developing this dashboard web, we will be creating individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. Moreover, there will be a landing page, a page where we can see a comparison of all of the plots and another page where we can view the data used to build them. Dataset was cleaned by using Python and transformed to HTML format.
 
-Web Visualization Dashboard design output can be tested clicking on this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
+Web Visualization Dashboard design final output bonus included can be tested clicking on this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
 
 
 # Data
@@ -13,11 +13,11 @@ Web Visualization Dashboard design output can be tested clicking on this [link](
 # Tools used
 Python (Jupyter notebook), HTML and CSS.
 
-# Visualization
+# Visualization : website contents
 
 The website consists of 7 pages total, as shown below;
 
-. Landing page 
+1. Landing page 
 
          which shows:
               
@@ -30,7 +30,7 @@ The website consists of 7 pages total, as shown below;
 ![ls](https://user-images.githubusercontent.com/84547558/157135066-214693e5-054f-4874-9c64-70f04a405190.png)
 
 
-. Comparisons page 
+2. Comparisons page 
 
       that:
                  
@@ -41,7 +41,7 @@ The website consists of 7 pages total, as shown below;
  ![cl](https://user-images.githubusercontent.com/84547558/157135814-574df3fa-f1be-4ddc-8061-74249df04daf.png)
   
 
-. 4 Visualization pages: 
+3. Four Visualization pages: 
                    
         each with:
                     
@@ -52,7 +52,7 @@ The website consists of 7 pages total, as shown below;
 ![vl](https://user-images.githubusercontent.com/84547558/157136529-ed227e4a-68ca-4435-bbaa-2492e0a5af61.png)
                   
    
-   . Data page:
+4. Data page:
        
             that;
                  
