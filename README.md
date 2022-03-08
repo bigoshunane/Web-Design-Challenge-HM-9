@@ -62,7 +62,49 @@ The website consists of 7 pages total, as shown below;
                     
 ![dpl](https://user-images.githubusercontent.com/84547558/157136852-c077b790-1130-4297-a164-5a809975042e.png)
 
-                   
+ The website at the top of every page, have a navigation menu that:
+
+  . Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
+  
+  . Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
+  
+  . Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
+  
+  . Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).                  
+
+# Considerations:
+
+. You may use the weather data or choose another dataset. Alternatively, you may use the included cities dataset and pull the images from the assets folder.
+
+. You must use Bootstrap. This includes using the Bootstrap navbar component for the header on every page, the bootstrap table component for the data page, 
+   and the Bootstrap grid for responsiveness on the comparison page.
+
+. You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
+
+. Be sure to use a CSS media query for the navigation menu.
+
+. Be sure your website works at all window widths/sizes.
+
+# Bonuses   The web dashboard can be found at [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
+
+. Use a different dataset! The requirements above still hold, but make it your own.
+
+. Use a Bootstrap theme to customize your website. You may use a tool like Bootswatch. Make it look snazzy, give it some attitude.
+  If using this, be sure you also meet all of the requirements listed above.
+
+. Add extra visualizations! The more comparisons the better, right?
+
+. Use meaningful glyphicons next to links in the header.
+
+. Have visualization navigation on every visualizations page with an active state. See the screenshots below.
+
+
+![GG](https://user-images.githubusercontent.com/84547558/157310375-0668dc7b-41df-4354-84e5-7d6ee83e1816.png)
+
+
+
+
+
 
 Rubric
 Unit 11 Rubric - Web Design Homework - Web Visualization Dashboard
