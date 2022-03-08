@@ -11,7 +11,7 @@ Web Visualization Dashboard design output can be tested clicking on this [link](
 [Weather data](https://github.com/bigoshunane/Python_API_Challenge_HM6/blob/main/output_data/cities.csv)
 
 # Tools used
-Python (Jupyter notebook), HTML, CSS
+Python (Jupyter notebook), HTML and CSS.
 
 # Visualization
 
