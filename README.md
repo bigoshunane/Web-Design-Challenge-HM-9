@@ -32,22 +32,22 @@ The website consists of 7 pages total, as shown below;
 
 . Comparisons page 
 
-         that:
+      that:
                  
-            . Contains all of the visualizations on the same page so we can easily visually compare them.
-            . Uses a bootstrap grid for the visualizations.
-            . The grid must be two visualizations across on screens medium and larger, and one across on extra-small and small screens.
+        . Contains all of the visualizations on the same page so that we can easily visually compare them.
+        . Uses a bootstrap grid for the visualizations.
+        . The grid must be two visualizations across on screens medium and larger and one across on extra-small and small screens.
    
  ![cl](https://user-images.githubusercontent.com/84547558/157135814-574df3fa-f1be-4ddc-8061-74249df04daf.png)
   
 
 . 4 Visualization pages: 
                    
-               each with:
+        each with:
                     
-                  . A descriptive title and heading tag.
-                  . The plot/visualization itself for the selected comparison.
-                  . A paragraph describing the plot and its significance.
+              . A descriptive title and heading tag.
+              . The plot/visualization itself for the selected comparison.
+              . A paragraph describing the plot and its significance.
                       
 ![vl](https://user-images.githubusercontent.com/84547558/157136529-ed227e4a-68ca-4435-bbaa-2492e0a5af61.png)
                   
