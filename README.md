@@ -1,6 +1,6 @@
 # Web_Design_Challenge_HM9
 
-# Web Design: Web Visualization Dashboard (Latitude)
+# Web Design/Visualization Dashboard (Latitude)
 
 The aim of this project is to create a visualization dashboard website by utilizing visualizations we have developed from the prior homework_6 where [weather data](https://github.com/bigoshunane/Python_API_Challenge_HM6/blob/main/output_data/cities.csv ) was used.
 
