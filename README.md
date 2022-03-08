@@ -76,8 +76,8 @@ The website consists of 7 pages total, as shown below;
 
 . You may use the weather data or choose another dataset. Alternatively, you may use the included cities dataset and pull the images from the assets folder.
 
-. You must use Bootstrap. This includes using the Bootstrap navbar component for the header on every page, the bootstrap table component for the data page, 
-   and the Bootstrap grid for responsiveness on the comparison page.
+. You must use Bootstrap. This includes using the Bootstrap navbar component for the header on every page, 
+  the bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
 
 . You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
 
@@ -88,8 +88,8 @@ The website consists of 7 pages total, as shown below;
 
 # Bonuses:   The web dashboard can be found at [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
 
-. Use a Bootstrap theme to customize your website. You may use a tool like Bootswatch. Make it look snazzy, give it some attitude.
-  If using this, be sure you also meet all of the requirements listed above.
+. Use a Bootstrap theme to customize your website. You may use a tool like Bootswatch. Make it look snazzy,
+  give it some attitude. If using this, be sure you also meet all of the requirements listed above.
 
 . Add extra visualizations! The more comparisons the better.
 
