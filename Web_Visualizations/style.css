@@ -3,14 +3,14 @@ img {
 }
 
 #imgsel {
-    border: lightblue 2px solid;
+    border: lightseagreen 2px solid;
 }
 
 h1,
 h2,
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: lightblue;
+    color: lightseagreen;
 }
 
 h1 {
