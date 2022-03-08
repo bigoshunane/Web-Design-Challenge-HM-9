@@ -98,7 +98,7 @@ The website consists of 7 pages total, as shown below;
 
 . Have visualization navigation on every visualizations page with an active state. See the screenshots below.
 
-
+Sample result:
 ![GG](https://user-images.githubusercontent.com/84547558/157310375-0668dc7b-41df-4354-84e5-7d6ee83e1816.png)
 
 
