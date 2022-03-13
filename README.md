@@ -2,7 +2,7 @@
 
 # Web Design/Visualization Dashboard (Latitude)
 
-# Web Visualization Dashboard design final output bonus included can be tested clicking on this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
+# Web Visualization Dashboard design final output bonus included can be tested clicking at this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
 
 
 The aim of this project is to create a visualization dashboard website by utilizing visualizations we have developed from the prior homework_6 where [weather data](https://github.com/bigoshunane/Python_API_Challenge_HM6/blob/main/output_data/cities.csv ) was used.
