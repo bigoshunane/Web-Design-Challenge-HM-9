@@ -1,8 +1,7 @@
-# Web_Design_Challenge_HM9
 
-# Web Design/Visualization Dashboard (Latitude)
+# Web Design/Visualization Dashboard
 
-# Web Visualization Dashboard design final output bonus included can be tested clicking at this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
+## Web Visualization Dashboard design final output bonus included can be tested clicking at this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
 
 
 The aim of this project is to create a visualization dashboard website by utilizing visualizations we have developed from the prior homework_6 where [weather data](https://github.com/bigoshunane/Python_API_Challenge_HM6/blob/main/output_data/cities.csv ) was used.
@@ -10,13 +9,13 @@ The aim of this project is to create a visualization dashboard website by utiliz
 While developing this dashboard web, we will be creating individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. Moreover, there will be a landing page where we can see a comparison of all of the plots and another page where we can view the dataset used to build them. Dataset was cleaned by using Python and transformed to HTML format.
 
 
-# Data
+## Data
 [Weather data](https://github.com/bigoshunane/Python_API_Challenge_HM6/blob/main/output_data/cities.csv)
 
-# Tools used
+## Tools used
 Python (Jupyter notebook), HTML and CSS.
 
-# Visualization : website contents
+## Visualization : website contents
 
 The website consists of 7 pages total, as shown below;
 
@@ -75,7 +74,7 @@ The website consists of 7 pages total, as shown below;
   
   . Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).                  
 
-# Considerations:
+## Considerations:
 
 . You may use the weather data or choose another dataset. Alternatively, you may use the included cities dataset and pull the images from the assets folder.
 
@@ -89,7 +88,7 @@ The website consists of 7 pages total, as shown below;
 . Be sure your website works at all window widths/sizes.
 
 
-# Bonuses:   The web dashboard can be found at [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
+## Bonuses:   The web dashboard can be found at [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
 
 . Use a Bootstrap theme to customize your website. You may use a tool like Bootswatch. Make it look snazzy,
   give it some attitude. If using this, be sure you also meet all of the requirements listed above.
