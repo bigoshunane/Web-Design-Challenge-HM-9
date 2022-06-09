@@ -3,7 +3,13 @@
 
 ## Web Visualization Dashboard design final output bonus included can be tested clicking at this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
 
+## Background
+For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
+In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
+
+
+## Project obejective
 The aim of this project is to create a visualization dashboard website by utilizing visualizations we have developed from the prior homework_6 where [weather data](https://github.com/bigoshunane/Python_API_Challenge_HM6/blob/main/output_data/cities.csv ) was used.
 
 While developing this dashboard web, we will be creating individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. Moreover, there will be a landing page where we can see a comparison of all of the plots and another page where we can view the dataset used to build them. Dataset was cleaned by using Python and transformed to HTML format.
