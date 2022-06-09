@@ -1,7 +1,7 @@
 
 # Web Design/Visualization Dashboard
 
-## Web Visualization Dashboard design final output bonus included can be tested clicking at this [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
+## Web Visualization Dashboard design final output bonus included can be tested clicking at this [link](https://bigoshunane.github.io/Web-Design-Challenge-HM-9/Web_Visualizations/landingpage.html)
 
 ## Background
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
@@ -86,7 +86,7 @@ The website consists of 7 pages total, as shown below;
 -  Be sure your website works at all window widths/sizes.
 
 
-## Bonuses:   The web dashboard can be found at [link](https://bigoshunane.github.io/Web_Design_Challenge_HM9/Web_Visualizations/landingpage.html)
+## Bonuses:   The web dashboard can be found at [link](https://bigoshunane.github.io/Web-Design-Challenge-HM-9/Web_Visualizations/landingpage.html)
 
 -  Use a Bootstrap theme to customize your website. You may use a tool like Bootswatch. Make it look snazzy,
   give it some attitude. If using this, be sure you also meet all of the requirements listed above.
